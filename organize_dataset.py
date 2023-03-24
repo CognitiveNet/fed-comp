@@ -1,6 +1,6 @@
 import os
 
-folder_path = "<caminho>"
+folder_path = "D:\Dataset\BID_Dataset"
 
 for folder in os.listdir(folder_path):
 
