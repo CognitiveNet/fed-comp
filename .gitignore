@@ -1,0 +1,6 @@
+__pycache__/
+.neptune/
+_UNet/
+_vggold/
+models_nao_usados/
+pesos_centralizados/
