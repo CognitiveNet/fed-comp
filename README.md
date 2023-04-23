@@ -2,6 +2,6 @@
 
 Modelos centralizados:
 
-resnet50
-vgg16
-vgg19
+EfficientNet
+Mobilenet
+Squeezenet
