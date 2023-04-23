@@ -2,6 +2,6 @@
 
 Modelos centralizados:
 
-EfficientNet
-Mobilenet
+EfficientNet </br>
+Mobilenet </br>
 Squeezenet
